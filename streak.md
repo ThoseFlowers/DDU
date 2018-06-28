@@ -19,3 +19,11 @@ Q: [求解最长公共子序列](http://www.51nod.com/onlineJudge/questionCode.h
 ### Day4.
 
 Q: 手写堆排序; 证明时间&空间复杂度
+
+### Day5.
+
+Q: 手写二分查找; 并证明其时间复杂度
+
+### Day6.
+
+Q: 利用DFS求解给定数列的全排列; e.g 1,2,3 输出三个数字的全排列
