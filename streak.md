@@ -18,7 +18,7 @@ Q: [求解最长公共子序列](http://www.51nod.com/onlineJudge/questionCode.h
 
 ### Day4.
 
-Q: 手写堆排序; 证明时间&空间复杂度
+Q: 手写堆排序; 证明时间&空间复杂度&注意思考一下O(N)时间复杂度建堆的思考
 
 ### Day5.
 
